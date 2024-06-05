@@ -32,8 +32,8 @@
     "description": "cat",
     "buttons": {
       "text": [
-        "How to use the guide",
-        "Introduction"
+        "Information",
+        "Communication"
       ],
       "url": [
         "/how-to-use-the-guide",
@@ -427,7 +427,7 @@
   },
   {
     "id": 26,
-    "name": "Consiltation of staff and other parties",
+    "name": "Consultation of staff and other parties",
     "link": "/documented-information",
     "description": "cat",
     "buttons": {
