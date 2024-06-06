@@ -448,10 +448,14 @@
     "description": "cat",
     "buttons": {
       "text": [
-        "How to use the guide",
-        "Introduction"
+        "Leadership and Commitment",
+        "Safety policy",
+        "Organisational roles, responsibilities, accountabilities and authorities",
+        "Consultation of staff and other parties"
       ],
       "url": [
+        "/how-to-use-the-guide",
+        "/introduction",
         "/how-to-use-the-guide",
         "/introduction"
       ]
