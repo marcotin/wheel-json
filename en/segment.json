@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Documented information",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -20,15 +20,15 @@
         "Cross-referencing other EU Regulations and applicable legal requirements"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 1,
     "name": "Information and Communication",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -36,15 +36,15 @@
         "Communication"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 2,
     "name": "Awareness",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -52,15 +52,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 3,
     "name": "Competence",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -68,15 +68,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 4,
     "name": "Resources",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -84,15 +84,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 5,
     "name": "Suppport",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -100,15 +100,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 6,
     "name": "Human and organisational factors",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -116,15 +116,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 7,
     "name": "Continual improvment",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -132,15 +132,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 8,
     "name": "Risk assesment",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -148,15 +148,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 9,
     "name": "Safety Objectives and Planning",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -164,15 +164,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 10,
     "name": "Operational Planning and Control",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -180,15 +180,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 11,
     "name": "Asset management",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -196,15 +196,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 12,
     "name": "Contractors, partners and supplies",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -212,15 +212,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 13,
     "name": "Management of Change",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -228,15 +228,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 14,
     "name": "Emergency Management",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -244,15 +244,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 15,
     "name": "Management Review",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -260,15 +260,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 16,
     "name": "Internal Auditing",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -276,15 +276,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 17,
     "name": "Monitoring",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -292,15 +292,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 18,
     "name": "Learning from Accidents and Incidents",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -308,15 +308,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 19,
     "name": "Improvement",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -324,15 +324,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 20,
     "name": "Planning",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -340,15 +340,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 21,
     "name": "Operation",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -356,15 +356,15 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 22,
     "name": "Performance evaluation",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -372,79 +372,115 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   },
   {
     "id": 23,
     "name": "Leadership and Commitment",
-    "link": "/mod/page/view.php?id=96",
-    "description": "url",
+    "link": "",
+    "description": "cat",
     "buttons": {
       "text": [
-        "How to use the guide",
-        "Introduction"
+        "Regulatory requirement",
+        "Purpose",
+		"Explanatory notes",
+		"Evidence",
+		"Examples of evidence",
+		"References and standards",
+		"Supervision issues"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/mod/page/view.php?id=96",
+        "/mod/page/view.php?id=102",
+		"/mod/page/view.php?id=103",
+		"/mod/page/view.php?id=104",
+		"/mod/page/view.php?id=105",
+		"/mod/page/view.php?id=106",
+		"/mod/page/view.php?id=107"
       ]
     }
   },
   {
     "id": 24,
     "name": "Safety Policy",
-    "link":  "/mod/page/view.php?id=97",
-    "description": "url",
+    "link":  "",
+    "description": "cat",
     "buttons": {
       "text": [
-        "How to use the guide",
-        "Introduction"
+        "Regulatory requirement",
+        "Purpose",
+		"Explanatory notes",
+		"Evidence",
+		"Examples of evidence",
+		"Supervision issues"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/mod/page/view.php?id=97",
+        "/mod/page/view.php?id=108",
+		"/mod/page/view.php?id=109",
+		"/mod/page/view.php?id=110",
+		"/mod/page/view.php?id=111",
+		"/mod/page/view.php?id=112"
       ]
     }
   },
   {
     "id": 25,
     "name": "Roles Responsibilities and Authorities",
-    "link": "/mod/page/view.php?id=99",
-    "description": "url",
+    "link": "",
+    "description": "cat",
     "buttons": {
       "text": [
-        "How to use the guide",
-        "Introduction"
+        "Regulatory requirement",
+        "Purpose",
+		"Explanatory notes",
+		"Evidence",
+		"Examples of evidence",
+		"References and standards",
+		"Supervision issues"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/mod/page/view.php?id=99",
+        "/mod/page/view.php?id=113",
+		"/mod/page/view.php?id=114",
+		"/mod/page/view.php?id=115",
+		"/mod/page/view.php?id=116",
+		"/mod/page/view.php?id=117",
+		"/mod/page/view.php?id=118"
       ]
     }
   },
   {
     "id": 26,
     "name": "Consultation of staff and other parties",
-    "link": "/mod/page/view.php?id=100",
-    "description": "url",
+    "link": "",
+    "description": "cat",
     "buttons": {
       "text": [
-        "How to use the guide",
-        "Introduction"
+        "Regulatory requirement",
+        "Purpose",
+		"Explanatory notes",
+		"Evidence",
+		"Examples of evidence",
+		"Supervision issues"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/mod/page/view.php?id=100",
+        "/mod/page/view.php?id=119",
+		"/mod/page/view.php?id=120",
+		"/mod/page/view.php?id=121",
+		"/mod/page/view.php?id=122",
+		"/mod/page/view.php?id=123"
       ]
     }
   },
   {
     "id": 27,
     "name": "Leadership",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -464,7 +500,7 @@
   {
     "id": 28,
     "name": "Safety culture",
-    "link": "./documented-information",
+    "link": "/documented-information",
     "description": "cat",
     "buttons": {
       "text": [
@@ -472,8 +508,8 @@
         "Introduction"
       ],
       "url": [
-        "./how-to-use-the-guide",
-        "./introduction"
+        "/how-to-use-the-guide",
+        "/introduction"
       ]
     }
   }
